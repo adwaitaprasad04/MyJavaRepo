@@ -8,6 +8,7 @@
   <name>MavenWebApp Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
+  <!--  For all jar files -->
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
